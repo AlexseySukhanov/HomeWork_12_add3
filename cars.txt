@@ -1,0 +1,10 @@
+Mazda@AA5043HM@Blue@Ivanov@Peremohy 54 35@1@2020 10 21
+Toyota@AA0101AA@Grey@Petrov@Andreevskaya 45 25@1@2020 4 1
+Toyota@AB0101AA@Grey@Sidorov@Olenivska 12 6@1@2021 7 17
+Audi@AA7799AA@Grey@Terkin@Igorevskya 4 15@1@2020 4 12
+BMW@CB2201HH@Red@Onoprienko@Kibalchichya 9 22@1@2021 8 1
+Mini@AA0115HH@Yellow@Chekatilo@Timoshenka 15 17@1@2020 11 9
+Seat@AK4565AA@Black@Lisovoy@Prirechna 17 67@1@2020 12 18
+Mersedes@AA7865AA@Black@Chekhov@Rayduzhna 2 16@1@2021 5 22
+Zaz@AA0332AA@White@Shevchenko@Prorizna 54 35@1@2020 8 15
+Man@AE0332AA@White@Vasnetsov@Pochayninska 54 35@1@2021 1 6
